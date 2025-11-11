@@ -121,8 +121,20 @@ It was designed and built for the **ISRO-U 2025 Drone Challenge**, reaching **Ro
 - Add full SLAM & obstacle avoidance
 - Extend flight time and payload handling
 - Add computer vision for dynamic environments
+  
+---
+## 👨‍🔧 Developed at
+**G.Pullaiah College Of Engineering And Technology**  
+*MSMF Space Research Club Students*
+
+![Team AetherX](Media/Team.jpg)  
+*Team AetherX*
+
+![College](Media/Gpcet.jpg)  
+*G. Pullaiah College of Engineering and Technology, Kurnool*
 
 ---
+
 ## 🧑‍💻 About Me:
 Aspiring Embedded System Developer, Drone Technology & IoT Enthusiast
 
