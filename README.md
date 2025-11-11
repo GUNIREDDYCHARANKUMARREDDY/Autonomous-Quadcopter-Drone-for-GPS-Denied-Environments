@@ -124,11 +124,13 @@ It was designed and built for the **ISRO-U 2025 Drone Challenge**, reaching **Ro
   
 ---
 ## 👨‍🔧 Developed at
-**G.Pullaiah College Of Engineering And Technology**  
+**G.Pullaiah College Of Engineering And Technology** 
+
+*MSMF Space Research Club Students*
 
 ![College](Media/Gpcet2.jpg)  
 
-*MSMF Space Research Club Students*
+
 
 *Team AetherX*
 ![Team AetherX](Media/Team.jpg)  
